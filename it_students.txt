@@ -1,0 +1,47 @@
+{"students": [  
+    {  
+        "name":"Marko Markovic",
+        "year":18,
+		"program":"Informacioni sistemi",
+        "courses":[  
+			"Uvod u IT",
+			"Engleski",
+            "Programiranje 1",
+            "Matematika"
+        ]
+    },
+	{  
+        "name":"Janko Jankovic",
+        "year":21,
+		"program":"Softversko inzenjerstvo",
+        "courses":[  
+			"Uvod u IT",
+			"Engleski",
+            "Programiranje 1",
+			"Programiranje 2",
+            "Matematika",
+			"Operativni sistemi",
+			"Web programiranje",
+			"XML tehnologije",
+			"Upravljanje IS",
+			"Softversko inzenjerstvo"			
+        ]
+    },
+	{  
+        "name":"Ana Petrovic",
+        "year":20,
+		"program":"Racunarske mreze",
+        "courses":[  
+			"Uvod u IT",
+			"Engleski",
+            "Programiranje 1",
+			"Programiranje 2",
+            "Matematika",
+			"Operativni sistemi",
+			"XML tehnologije",
+			"Telekomunikacioni sistemi",
+			"Administracija racunarskih mreza"				
+        ]
+    }
+]
+}
